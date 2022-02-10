@@ -23,7 +23,7 @@
 
   ## Links
 
-  GitHub Repository: 
+  GitHub Repository: https://github.com/IanMordaunt/social-network
   
   README-Generator Demo: 
 
