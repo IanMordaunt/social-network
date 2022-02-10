@@ -48,6 +48,8 @@
   <a name='tests'></a>
   ## Test
 
+  Routes tested using: Insomnia
+
   npm jest
 
   <a name='license'></a>
