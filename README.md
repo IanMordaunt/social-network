@@ -25,7 +25,7 @@
 
   GitHub Repository: https://github.com/IanMordaunt/social-network
   
-  Video Demo: 
+  Video Demo: https://vimeo.com/manage/videos/675721290
 
   <a name='installation'></a>
   ## Installation
