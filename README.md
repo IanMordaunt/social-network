@@ -25,17 +25,20 @@
 
   GitHub Repository: https://github.com/IanMordaunt/social-network
   
-  README-Generator Demo: 
+  Video Demo: 
 
   <a name='installation'></a>
   ## Installation
 
-  init inquirer
+   "express": "^4.17.2"
+   "moment": "^2.29.1"
+   "mongoose": "^6.2.1"
+   "nodemon": "^2.0.15"
 
   <a name='usage'></a>
   ## Usage
 
-  To assist in the generation of a ReadMe file
+  To create a social network with friends and share thought between one another. Being able to react or responde to the thoughts of each user or friend.
 
   <a name='contribute'></a>
   ## Contributers
@@ -49,7 +52,7 @@
 
   <a name='license'></a>
   ## Lincenses
-  ![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg) https://opensource.org/licenses/MPL-2.0
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)] (https://opensource.org/licenses/ISC) 
 
   <a name='questions'></a>
   ## Questions
